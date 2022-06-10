@@ -1,5 +1,3 @@
-# Introduction
-This 
 
 # Installation instructions
 1. Install Arduino IDE from [here](https://www.arduino.cc/en/Main/Software) (only required for actual compilation, not for running latency tests)
